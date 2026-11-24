@@ -1,2 +1,2 @@
-# learning-tasks
-Collection of learning projects and scripts used for familiarisation
+# shipping-tasks
+Collection of scripts used for an analysis of shipping vessels as part of a practice excercise
